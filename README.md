@@ -8,4 +8,5 @@ categories based on their colour (e.g., red, blue, and green). The system should
 key components:  
 1. Sensor system
 2. Actuation System
-3. Control 
+3. Control System
+4. System Integration
